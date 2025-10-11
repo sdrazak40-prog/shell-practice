@@ -1,3 +1,5 @@
 #!/bin/bash
-#welcome back message
-eco "welcome back to the shell-pratice repository, syed!"
+
+# this is our understanding the code - it is like a comment
+
+echo "Hello world"
