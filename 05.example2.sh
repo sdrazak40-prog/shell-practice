@@ -1,3 +1,5 @@
 #!bin/bash 
-echo "practice the shell scripting"
-echo "focusing on git"
+echo "please enter your  PIN NUMBER"
+read PIN_NUMBER #GERE PIN NUMBER IS VARIABLE
+
+echo "pin enterd is :" $PIN_NUMBER
